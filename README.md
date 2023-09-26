@@ -16,7 +16,7 @@ Para encerrar ou não o processo ele leva em conta dois paramêtros, se consome 
 https://github.com/tarcisio-marinho/GonnaCry/
 
 ### Especificações da VM de teste:
-+ RAM: 3GB
++ RAM: 4GB
 + Processadores: 4
 + Memória: 20GB
 + Sistema Operacional: Ubuntu 22.04.3
