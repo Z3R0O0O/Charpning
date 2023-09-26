@@ -14,8 +14,8 @@
 + Henrique Batista de Souza
 
 ### Sobre:
-O Charpning é um código em python que limita os processos que podem ser executados no sistema, ou seja, caso o processo que está sendo iniciado não possuir seu nomme da lista de exceções, o processo é encerrado!
-Para encerrar ou não o processo ele leva em conta dois paramêtros, se consome mais de 23% da CPU (Consumo médio do Ransomware open source escolhido para análise) e se está na lista, caso nenhum desses paramêtros sejam compaátiveis, ele é encerrado!
+O Charpning é um código em python que limita os processos que podem ser executados no sistema, ou seja, caso o processo que está sendo iniciado não possuir seu nome da lista de exceções, o processo é encerrado!
+Para encerrar ou não o processo ele leva em conta dois paramêtros, se consome mais de 23% da CPU (Consumo médio do Ransomware open source escolhido para análise) e se está na lista, caso nenhum desses paramêtros sejam compátiveis, ele é encerrado!
 
 ### Instalação
 pip install psutil
