@@ -449,3 +449,7 @@ firefox.launche
 iptables
 gosu
 containerd-shim
+chmod
+cp
+mv
+rm
