@@ -441,5 +441,6 @@ usb-storage
 (fprintd)
 mandb
 livepatch-notification
+gnome-shell-portal-helper
 netstat 
 gvfsd-dnssd
