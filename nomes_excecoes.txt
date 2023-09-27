@@ -444,3 +444,4 @@ livepatch-notification
 gnome-shell-portal-helper
 netstat 
 gvfsd-dnssd
+systemd-timedated
