@@ -445,3 +445,4 @@ gnome-shell-portal-helper
 netstat 
 gvfsd-dnssd
 systemd-timedated
+firefox.launche
