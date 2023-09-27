@@ -4,7 +4,7 @@ import os  # Funcionalidades relacionadas ao sistema operacional.
 import signal  # Envia sinais para processos.
 
 # Limite de uso da CPU (em porcentagem)
-limite_cpu = 23.0
+limite_cpu = 15.0
 
 # Nome do processo Python atual
 nome_python = os.path.basename(__file__)  
