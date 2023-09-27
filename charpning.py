@@ -40,7 +40,7 @@ while True:
 
                 # Verifique se o nome do processo não está na lista de exceções
                 if (
-                    nome_processo not in nomes_permitidos
+                    nome_processo not in nomes_permitidos    # Permissão exclusiva para o python!
                     and uso_cpu > limite_cpu
                     and nome_processo not in nomes_excecoes
                 ):
