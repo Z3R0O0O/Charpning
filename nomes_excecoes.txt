@@ -440,5 +440,6 @@ apt-helper
 usb-storage 
 (fprintd)
 mandb
+livepatch-notification
 netstat 
 gvfsd-dnssd
