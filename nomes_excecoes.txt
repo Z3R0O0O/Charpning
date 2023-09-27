@@ -446,3 +446,6 @@ netstat
 gvfsd-dnssd
 systemd-timedated
 firefox.launche
+iptables
+gosu
+containerd-shim
